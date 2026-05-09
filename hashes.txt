@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enta Sabab El Noor
+
+This log tracks the cryptographic history and versioning for the song **Enta Sabab El Noor** (enta-sabab-el-noor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T16:05:27.730363 | `v1` | `57594b14f8efffbefddd0304a3709e74e7108d3832e0cfe2b82491e7f38f2ed2` | `42d3d1ab3b4468cb1db00c2d8df916d1117acc1226127d377f03d82cad30378a` | `2026-05-09_enta-sabab-el-noor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
